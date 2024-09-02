@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Martin</h1>
+<h1 align="center">Hi, Hej, Hallå 👋, I'm Martin</h1>
 <h3 align="center">A curious and passionate web developer from the far north.</h3>
 
 - 🔭 I’m currently working on [My portfolio website.](https://github.com/martinsjoeborg/portfolio)
