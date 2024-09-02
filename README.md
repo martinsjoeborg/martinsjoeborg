@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Martin</h1>
 <h3 align="center">A curious and passionate web developer from the far north.</h3>
 
