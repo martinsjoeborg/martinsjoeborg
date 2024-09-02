@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [My portfolio website.](https://github.com/martinsjoeborg/portfolio)
 
-- 🌱 I’m currently learning **Typescript, Python and Ethical Hacking with Kali Linux.**
+- 🌱 I’m currently learning **Typescript and Python**
 
 - 👯 I’m looking to collaborate on **Cool projects from classic web dev to web3.**
 
