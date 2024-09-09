@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **martinsjoeborg@gmail.com**
 
-- ⚡ Fun fact **I love Lord of the Rings and I'm a sick hockey player.**
+- ⚡ Fun fact **I love Lord of the Rings.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
