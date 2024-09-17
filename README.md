@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Typescript and Python**
 
-- 👯 I’m looking to collaborate on **Cool projects from classic web dev to web3.**
+- 👯 I’m looking to collaborate on **projects from classic web dev to web3.**
 
 - 💬 Ask me about **JS, React, Node or Solidity.**
 
