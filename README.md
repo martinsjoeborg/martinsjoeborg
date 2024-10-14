@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [My portfolio website.](https://github.com/martinsjoeborg/portfolio)
 
-- 🌱 I’m currently learning **Typescript and Python**
+- 🌱 I’m currently learning **C# & .NET**
 
 - 👯 I’m looking to collaborate on **projects from classic web dev to web3.**
 
