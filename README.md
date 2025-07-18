@@ -1,17 +1,3 @@
-<h1 align="center">Hi 👋 I'm Martin</h1>
-<h3 align="center">A curious and passionate web developer from the far north.</h3>
-
-- 🔭 I’m currently working on [My portfolio website.](https://github.com/martinsjoeborg/portfolio)
-
-- 🌱 I’m currently learning **C# & .NET**
-
-- 👯 I’m looking to collaborate on **projects from classic web dev to web3.**
-
-- 💬 Ask me about **JS, React, Node or Solidity.**
-
-- 📫 How to reach me **martinsjoeborg@gmail.com**
-
-- ⚡ Fun fact **I love Lord of the Rings.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
